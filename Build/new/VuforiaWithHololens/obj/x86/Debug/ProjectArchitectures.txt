@@ -1,0 +1,1 @@
+C:\G\Project\Unity5\VuforiaWithHololens\Build\new\VuforiaWithHololens\VuforiaWithHololens.csproj;x86
